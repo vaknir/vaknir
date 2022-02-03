@@ -1,4 +1,3 @@
-- 👋 Hi, My name is Nir Vaknin
-- 👀 I’m interested in technology and security 
-- 🌱 I’m currently learning mostly Python and started to learn backend NodeJS
-- I just started my path at Hack The Box and maybe get into the cyber world.
+<div id="header" aligen="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+</div>
