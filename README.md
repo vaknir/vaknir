@@ -18,7 +18,7 @@ Hey there :v: and welcome to my Github page.  :smiley:
 My name is Nir and im CloudOps engineer :cloud: from Israel.
 My background is IT and Automation engineer but lately backend development really interesting me, so I started to write my own project to learn more. In this page I will put links to my other projects once they will be available
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nir-vaknin-85736289))
+:mailbox: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nir-vaknin-85736289])
 
 ---
 
