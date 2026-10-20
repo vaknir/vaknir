@@ -17,10 +17,24 @@ My background is IT and automation; these days I spend most of my time on backen
 | [**portctl**](https://github.com/vaknir/portctl) | GitOps CLI for [Port.io](https://www.getport.io/) — `kubectl`/`terraform`-style pull, diff, push, drift detection and rollback for your developer portal config. | Python · Typer · CI |
 | [**netdata_tegrastats**](https://github.com/vaknir/netdata_tegrastats) | Netdata plugin that adds NVIDIA Jetson Xavier GPU stats to the dashboard. | Python |
 
+### 📱 Namlog — private project
+
+A self-hosted nutrition & recovery coach for iOS. A deterministic engine sets the daily calorie target from your measured weight trend, health data (Apple Health / WHOOP) shapes the guidance, and an AI coach helps log meals by text, photo or barcode — every write is confirmed by you first.
+
+**Stack:** SwiftUI · Python / FastAPI · PostgreSQL (row-level security) · OpenAI Responses API · Docker · Cloudflare Tunnel & Access
+
+<p>
+  <img src="assets/namlog/today.jpg" width="200" alt="Namlog Today screen: calories remaining, protein and water" />
+  <img src="assets/namlog/coach.jpg" width="200" alt="Namlog coach chat with quick-reply options" />
+  <img src="assets/namlog/photo.jpg" width="200" alt="Namlog photo meal recognition with AI estimates to confirm" />
+  <img src="assets/namlog/progress.jpg" width="200" alt="Namlog Progress dashboard: logging coverage, weight and metabolism" />
+</p>
+
+<sub>Source is private — happy to walk through it on request.</sub>
+
 ### 🧪 Currently tinkering with
 
 - **MCP servers & AI agents** — giving Claude-style agents scoped, auditable access to real tools
-- **Personal health coach** — self-hosted nutrition & recovery coaching on top of WHOOP data
 - **Market tooling** — momentum scanners and paper-trading dashboards
 
 ### 🧰 Tools I use
