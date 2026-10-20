@@ -1,21 +1,34 @@
-<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/></p>
-<p align="center"> <a href="https://www.linkedin.com/in/nir-vaknin-85736289"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<img src="https://komarev.com/ghpvc/?username=vaknir&style=flat-square&color=green" alt=""/></p>
+# Hi, I'm Nir 👋
+
+**Software / Platform engineer from Israel** — I build developer tooling, automation, and AI-agent infrastructure.
+
+My background is IT and automation; these days I spend most of my time on backend and platform work: CLIs that bring GitOps to internal tools, MCP servers that let AI agents act safely, and a lot of Python and TypeScript glue in between.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir-vaknin-85736289)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:bit.nir@gmail.com)
 
 ---
 
-### About me:
+### 🔨 Featured projects
 
-Hey there :v: and welcome to my Github page.  :smiley:
+| Project | What it is | Stack |
+|---|---|---|
+| [**MCPatch**](https://github.com/vaknir/MCPatch) | Turns websites into safe, typed MCP tools for AI agents. A capability broker between MCP clients and your existing browser session — named tools with declared schemas, origins and risk, never raw cookies or arbitrary JS. | Rust · TypeScript · Browser extension |
+| [**portctl**](https://github.com/vaknir/portctl) | GitOps CLI for [Port.io](https://www.getport.io/) — `kubectl`/`terraform`-style pull, diff, push, drift detection and rollback for your developer portal config. | Python · Typer · CI |
+| [**netdata_tegrastats**](https://github.com/vaknir/netdata_tegrastats) | Netdata plugin that adds NVIDIA Jetson Xavier GPU stats to the dashboard. | Python |
 
-My name is Nir and im CloudOps engineer :cloud: from Israel.
-My background is IT and Automation engineer but lately backend development really interesting me, so I started to write my own project to learn more. In this page I will put links to my other projects once they will be available
+### 🧪 Currently tinkering with
 
-:mailbox: Talk with me at [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir-vaknin-85736289)
-[![GMail](https://img.shields.io/badge/-Mail-red?logo=gmail&logoColor=white)](mailto:bit.nir@gmail.com)
+- **MCP servers & AI agents** — giving Claude-style agents scoped, auditable access to real tools
+- **Personal health coach** — self-hosted nutrition & recovery coaching on top of WHOOP data
+- **Market tooling** — momentum scanners and paper-trading dashboards
 
----
+### 🧰 Tools I use
 
-### Planned Projects:
-
-Create A blog where I can post my progress as a backend engineer and the difficult and issues I had during it. And other thing I already built and have, is a stocks watching Telegram Bot which I want to integrate in my site as part of my projects.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
