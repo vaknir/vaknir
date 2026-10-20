@@ -1,6 +1,6 @@
 # Hi, I'm Nir 👋
 
-**Software / Platform engineer from Israel** — I build developer tooling, automation, and AI-agent infrastructure.
+**Senior DevOps Engineer from Israel** — I build cloud infrastructure, automation, developer tooling, and AI-agent infrastructure.
 
 My background is IT and automation; these days I spend most of my time on backend and platform work: CLIs that bring GitOps to internal tools, MCP servers that let AI agents act safely, and a lot of Python and TypeScript glue in between.
 
